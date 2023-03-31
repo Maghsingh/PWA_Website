@@ -1,20 +1,20 @@
 {
     "name":"Xavier app",
     "short_name":"XIE",
-    "start_url":"index.html",
+    "start_url":"https://maghsingh.github.io/PWA_Website/index.html",
     "display":"standalone",
     "background_color":"#FFE9D2",
     "theme_color":"#FFE9D2",
     "orientation":"portrait-primary",
     "icons": [
         {
-            "src":"/logo.png",
+            "src":"https://maghsingh.github.io/PWA_Website/logo.png",
             "sizes":"144x144",
             "type":"image/png",
             "purpose":"any"
         },
         {
-            "src":"/xielogo.png",
+            "src":"https://maghsingh.github.io/PWA_Website/xielogo.png",
             "sizes":"512x512",
             "type":"image/png",
             "purpose":"maskable"
